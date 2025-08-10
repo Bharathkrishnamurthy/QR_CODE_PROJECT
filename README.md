@@ -1,0 +1,2 @@
+# QR_CODE_PROJECT
+My first QR code project using Django 
